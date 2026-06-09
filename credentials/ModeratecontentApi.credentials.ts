@@ -8,7 +8,7 @@ import type {
 export class ModeratecontentApi implements ICredentialType {
 	name = 'N8nDevModeratecontentApi';
 
-	displayName = 'moderatecontent API';
+	displayName = 'Moderatecontent API';
 
 	icon: Icon = { light: 'file:../nodes/Moderatecontent/moderatecontent.png', dark: 'file:../nodes/Moderatecontent/moderatecontent.dark.png' };
 
@@ -22,7 +22,7 @@ export class ModeratecontentApi implements ICredentialType {
 			default: '',
 			required: true,
 			placeholder: 'https://api.example.com',
-			description: 'The base URL of your moderatecontent API server',
+			description: 'The base URL of your Moderatecontent API server',
 		},
 		{
 			displayName: 'API Key',
