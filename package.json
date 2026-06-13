@@ -1,7 +1,7 @@
 {
   "name": "@n8n-dev/n8n-nodes-moderatecontent",
-  "version": "1.0.1",
-  "description": "Our FREE API blocks images with nudity. Build from the ground up, accurate models, best in class support, great price",
+  "version": "1.0.2",
+  "description": "Free API blocks nudity. Accurate models, best support, great price.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-moderatecontent",
   "keywords": [
